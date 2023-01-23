@@ -1,0 +1,6 @@
+1,Ivan,Ivanov,89213219832,work
+2,Vasili,Kuzin,89138428921,home
+3,Thomas,Parker,19873218523,work
+4,Yuliya,Soloma,89229874321,home
+5,Anastasiya,Popova,89329873257,home
+87,John,Allen,123487524,work
